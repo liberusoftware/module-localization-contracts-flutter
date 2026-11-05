@@ -1,0 +1,15 @@
+{
+  "repository": "module-localization-contracts-flutter",
+  "capabilityKey": "liberusoftware/localization-contracts",
+  "presentation": "mobile-flutter",
+  "package": "module_localization_contracts_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/localization-contracts.md",
+  "presentationPlan": "projects/crm/flutter/localization-contracts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
